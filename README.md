@@ -8,6 +8,9 @@ Since we conduct a straightforward analysis, we will only select one grid data f
 Code reference: [Harrington (2020)](https://www.mattrharrington.com/post/fill-in-missing-cyclical-data-using-seasonal-trend-loess-and-cross-validation).
 ![Alt text](Focus-grid.png)
 
+## Results
+![Alt text](Results.png)
+
 ### Reference
 
 -   Ali, S., Ran, J., Luan, Y., Khorrami, B., Xiao, Y., & Tangdamrongsub, N. (2024). The GWR model-based regional downscaling of GRACE/GRACE-FO derived groundwater storage to investigate local-scale variations in the North China Plain. Science of The Total Environment, 908, 168239. <https://doi.org/10.1016/j.scitotenv.2023.168239>.
