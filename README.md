@@ -19,9 +19,9 @@ Code reference: [Harrington (2020)](https://www.mattrharrington.com/post/fill-in
 
 -   Cleveland, R. B., Cleveland, W. S., McRae, J. E., & Terpenning, I. (1990). STL: A seasonal-trend decomposition. J. off. Stat, 6(1), 3-73.
 
--   Hafen, R. stlplus. GitHub. [Available at: [https://github.com/hafen/stlplus].](https://github.com/hafen/stlplus].)
+-   Hafen, R. stlplus. GitHub. Available at: <https://github.com/hafen/stlplus>.
 
--   Harrington, M. (2020). Fill in Missing Cyclical Data using STL and Cross Validation. [Available at: [https://www.mattrharrington.com/post/fill-in-missing-cyclical-data-using-seasonal-trend-loess-and-cross-validation].](https://www.mattrharrington.com/post/fill-in-missing-cyclical-data-using-seasonal-trend-loess-and-cross-validation].)
+-   Harrington, M. (2020). Fill in Missing Cyclical Data using STL and Cross Validation. Available at: <https://www.mattrharrington.com/post/fill-in-missing-cyclical-data-using-seasonal-trend-loess-and-cross-validation>.
 
 -   Khorrami, B., Ali, S., Sahin, O. G., & Gunduz, O. (2023). Model‐coupled GRACE‐based analysis of hydrological dynamics of drying Lake Urmia and its basin. Hydrological Processes, 37(5), e14893. <https://doi.org/10.1002/hyp.14893.>
 
