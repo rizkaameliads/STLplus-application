@@ -1,5 +1,5 @@
 # Applying STLplus to GRACE Terrestrial Water Storage Data
-For full notebook, kindly refer to this [LinkedIn Post](https://www.linkedin.com/posts/rizka-amelia-dwi-safira_stlplus-application-activity-7297924878953787392-RWfc?utm_source=share&utm_medium=member_desktop&rcm=ACoAADP4obsBG1BaQnjiqW1ZQN2nJhShQCywGg4).
+For full notebook, kindly refer to the attached PDF document or [LinkedIn Post](https://www.linkedin.com/posts/rizka-amelia-dwi-safira_stlplus-application-activity-7297924878953787392-RWfc?utm_source=share&utm_medium=member_desktop&rcm=ACoAADP4obsBG1BaQnjiqW1ZQN2nJhShQCywGg4).
 
 This notebook aims to apply STLplus to GRACE/GRACE-FO Terrestrial Water Storage Anomaly (TWSA) data from [CSR (Center for Space Research)](https://www2.csr.utexas.edu/grace/RL06_mascons.html) with a 0.25-degree spatial resolution and a one-month temporal resolution. STLplus is an improved decomposition approach of seasonal and trend decomposition using Loess (STL) by [Cleveland et al. (2019)](https://www.wessa.net/download/stl.pdf), developed by [**Ryan Hafen**](https://github.com/hafen/stlplus).
 
